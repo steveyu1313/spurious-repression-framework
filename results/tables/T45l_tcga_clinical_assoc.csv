@@ -1,0 +1,3 @@
+comparison,n,median_hi,median_lo,p
+T3/T4 vs T2 (panel score),493,0.12,0.16,0.274
+N1 vs N0 (panel score),493,0.02,0.14,0.0415

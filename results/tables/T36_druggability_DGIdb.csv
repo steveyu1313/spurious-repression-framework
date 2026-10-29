@@ -1,0 +1,24 @@
+gene,n_interactions,n_drugs,n_sources,top_drugs,sources,interaction_types,in_hub,in_panel,hub_rank
+KDR,223,203,15,"PEGDINETANIB (0.84); PF-00337210 (0.63); BFH-772 (0.42); GOLVATINIB (0.42); RAMUCIRUMAB (0.25)","CIViC; CancerCommons; ChEMBL; ClearityFoundationClinicalTrial; ClinPGx; DTC; Drug Repurposing Hub; GuideToPharmacology; MyCancerGenome; MyCancerGenomeClinicalTrial; PRISM; TALC; TEND; TTD; TdgClinicalTrial","agonist; antibody; inhibitor",1,0,4
+PTGS2,186,173,10,"ETORICOXIB (0.63); SUPROFEN (0.63); OMEGA-3 FATTY ACIDS (0.50); (R)-IBUPROPHEN (0.50); CHEMBL:CHEMBL2171117 (0.50)","CIViC; ChEMBL; ClinPGx; DTC; Drug Repurposing Hub; GuideToPharmacology; MyCancerGenomeClinicalTrial; NCI; TEND; TdgClinicalTrial",inhibitor,1,0,6
+KIT,138,128,21,"AVAPRITINIB (1.70); RIPRETINIB (1.27); BEZUCLASTINIB (1.02); UBAVITINIB (0.68); MOTESANIB DIPHOSPHATE (0.68)","CGI; CIViC; CKB-CORE; COSMIC; CancerCommons; ChEMBL; ClearityFoundationClinicalTrial; ClinPGx; DTC; DoCM; Drug Repurposing Hub; FDA; GuideToPharmacology; MOAlmanac; MyCancerGenome; MyCancerGenomeClinicalTrial; OncoKB; TALC; TEND; TTD; TdgClinicalTrial","agonist; antibody; inhibitor",1,0,11
+MYC,90,90,9,"ORNITHINE DECARBOXYLASE INHIBITOR (1.04); ADOZELESIN (1.04); BIZELESIN (1.04); AMINOPTERIN (1.04); LOBAPLATIN (1.04)","CGI; CIViC; ClearityFoundationBiomarkers; ClinPGx; Drug Repurposing Hub; GuideToPharmacology; NCI; PRISM; TdgClinicalTrial",,1,0,1
+ABCG2,87,87,8,"CHEMBL:CHEMBL488910 (2.15); CHEMBL:CHEMBL428402 (1.08); RETUSIN (1.08); DIFLOMOTECAN (0.54); SILYMARIN (0.54)","ClinPGx; DTC; Drug Repurposing Hub; GuideToPharmacology; NCI; PRISM; TEND; TTD",inhibitor,1,0,17
+FASN,37,37,7,"DENIFANSTAT (3.80); CERULENIN (2.53); PRETOMANID (2.53); GSK2194069 (2.53); CHEMBL:CHEMBL577862 (1.27)","DTC; Drug Repurposing Hub; GuideToPharmacology; NCI; PRISM; TTD; TdgClinicalTrial",inhibitor,1,0,9
+EZH2,20,20,8,"EPZ005687 (11.71); EPZ011989 (9.36); CPI-1205 (7.02); EI1 (4.68); GSK126 (4.10)","CGI; CIViC; ChEMBL; Drug Repurposing Hub; GuideToPharmacology; MOAlmanac; OncoKB; TTD",inhibitor,1,0,7
+GATA3,17,17,2,"GLUCARPIDASE (0.79); PEGASPARGASE (0.32); AVN-944 (0.31); ASPARAGINASE (0.21); PREDNISOLONE (0.18)","ClinPGx; PRISM",,1,0,15
+CCL2,15,14,5,"EMAPTICAP PEGOL (6.24); CARLUMAB (3.12); RS-504393 (2.08); BINDARIT (1.56); MIMOSINE (0.78)","ChEMBL; ClinPGx; Drug Repurposing Hub; TTD; TdgClinicalTrial",inhibitor,1,0,2
+EPAS1,12,10,5,"BELZUTIFAN (3.90); NVP-DFF332 (3.90); PUUPEHENONE (3.90); HALICLONADIAMINE (3.90); NEOPETROFORMYNE A (3.90)","ChEMBL; DTC; Drug Repurposing Hub; GuideToPharmacology; PRISM","inhibitor; modulator",1,0,19
+CXCL12,9,8,3,"OLAPTESED PEGOL (5.20); ALEMTUZUMAB (3.47); CHLORAMBUCIL (0.61); RITUXIMAB (0.42); FLUDARABINE (0.33)","ChEMBL; ClinPGx; TTD",inhibitor,1,0,13
+IGF1,6,4,4,"XENTUZUMAB (7.80); DUSIGITUMAB (3.90); MECASERMIN (1.11); TROFINETIDE (1.11)","ChEMBL; ClinPGx; TTD; TdgClinicalTrial",inhibitor,1,0,5
+CAV1,4,4,2,"EPERISONE (5.85); TOLPERISONE (2.34); TESTOSTERONE (0.60); DEHYDRATED ALCOHOL (0.30)","NCI; TTD",,1,0,3
+ANXA2,3,3,2,"N-ETHYLMALEIMIDE (6.24); ANISTREPLASE (5.20); WITHAFERIN A (2.60)","DTC; TEND",,1,0,10
+HPN,2,2,4,"BENTIROMIDE (70.23); MECLIZINE (3.90)","Drug Repurposing Hub; TEND; TTD; TdgClinicalTrial",,0,1,
+AMACR,2,2,1,"CHOLIC ACID (1.95); IBUPROFEN, SODIUM SALT (1.14)",ClinPGx,,0,1,
+PROM1,1,1,1,ICT-121 DENDRITIC CELL VACCINE (93.65),TTD,,1,0,18
+PPARGC1A,0,0,0,,,,1,0,14
+HOXC6,0,0,0,,,,0,1,
+KRT14,0,0,0,,,,1,0,16
+ECT2,0,0,0,,,,1,0,20
+KRT5,0,0,0,,,,1,0,8
+SNAI2,0,0,0,,,,1,0,12

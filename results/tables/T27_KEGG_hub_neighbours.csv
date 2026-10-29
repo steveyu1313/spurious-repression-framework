@@ -1,0 +1,2 @@
+category,subcategory,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count
+Organismal Systems,Development and regeneration,hsa04382,Cornified envelope formation,18/142,186/7971,0.0967741935483871,5.43230349840981,8.23714745997641,4.14215317909572e-09,1.07695982656489e-06,4.79855698963602e-07,KRT7/OCLN/KRT15/S100A4/COL7A1/KRT19/PKP1/KRT17/CLDN7/ITGB4/DST/KRT23/COL17A1/S100A16/S100A2/LAMB3/EPHX2/CLDN3,18

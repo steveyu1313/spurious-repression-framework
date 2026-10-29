@@ -1,0 +1,5 @@
+cohort,model,n,events,HR,lo,hi,p
+GSE70770 (Stockholm),panel (univariable),92,45,0.686240873057999,0.384447896390067,1.22494241814655,0.203
+GSE70770 (Stockholm),panel + PSA + Gleason,92,45,0.704521771851167,0.398952023552419,1.2441368829079,0.227
+GSE70770 (Stockholm),clinical only (PSA + Gleason),92,45,,,,0.000384
+GSE70770 (Stockholm),panel added to PSA + Gleason (LRT),92,45,,,,0.225

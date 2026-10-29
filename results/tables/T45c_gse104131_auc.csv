@@ -1,0 +1,6 @@
+model,short,n,auc,ci_lo,ci_hi
+Zero-param panel (fixed-weight),panel,30,0.947,0.868,1
+AMACR,AMACR,30,0.933,0.819,1
+PCA3,PCA3,30,0.76,0.568,0.952
+HOXC6,HOXC6,30,0.88,0.744,1
+HPN,HPN,30,0.978,0.931,1

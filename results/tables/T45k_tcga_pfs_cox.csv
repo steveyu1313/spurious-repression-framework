@@ -1,0 +1,4 @@
+model,n,events,HR,lo,hi,p
+panel (univariable),493,93,0.9,0.66,1.21,0.484
+"panel, stratified by T and N stage",493,93,0.93,0.68,1.26,0.628
+panel added to T/N strata (LRT),493,93,,,,0.631

@@ -1,0 +1,12 @@
+# Raw data and large intermediates are not committed — download from the
+# accessions listed in README.md and regenerate, or use results/tables/.
+*.rds
+*.RData
+*.Rhistory
+*.gz
+*.h5
+*.h5ad
+data/
+raw/
+.Rproj.user
+__pycache__/

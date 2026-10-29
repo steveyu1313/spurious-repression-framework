@@ -1,0 +1,4 @@
+cohort,slope,intercept,HL_stat,HL_df,HL_p,note
+GSE46602,,,,,,degenerate: complete separation (AUC = 1); calibration not estimable
+GSE69223,3.37635889805655,0.433899676862169,3.30750494988751,2,0.191330596594938,
+GSE55945,,,,,,degenerate: complete separation (AUC = 1); calibration not estimable

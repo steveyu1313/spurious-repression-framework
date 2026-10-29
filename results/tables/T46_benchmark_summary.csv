@@ -1,0 +1,6 @@
+model,short,n_ext,internal_auc,external_auc,ci_lo,ci_hi,auc_drop,p_delong_vs_zeroparam,brier_external,cal_slope_ext,cal_intercept_ext
+Zero-parameter fixed-weight panel (proposed),ZeroParam,199,1,0.943,0.907,0.979,0.057,,0.0881,7.42,-4.13
+Logistic regression,Logistic,199,0.994,0.939,0.901,0.977,0.055,0.319,0.3719,,0.52
+"LASSO (10-fold CV, 1-SE)",LASSO,199,0.992,0.938,0.9,0.977,0.054,0.273,0.2417,17.47,-15.35
+Random forest (500 trees),RF,199,0.996,0.917,0.874,0.959,0.079,0.0202,0.1915,11.24,-8.86
+SVM (RBF kernel),SVM,199,0.996,0.667,0.586,0.747,0.329,5.93e-12,0.2854,10.31,-8.63
